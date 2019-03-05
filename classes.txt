@@ -1,0 +1,24 @@
+class GenerateQuestions:
+    def __init__(self, password, num_mc, num_short, num_long):
+        self.password = password
+        self.num_mc = num_mc
+        self.num_short = num_short
+        self.num_long = num_long
+
+
+class ReturnQuestions:
+    def __init__(self, q_id, question):
+        self.q_id = q_id
+        self.question = question
+
+
+class RequestAnswer:
+    def __init__(self, password, q_id, answer):
+        self.password = password
+        self.q_id = q_id
+        self.answer = answer
+
+
+class ReturnAnswer:
+    def __init__(self, is_correct):
+        self.is_correct = is_correct

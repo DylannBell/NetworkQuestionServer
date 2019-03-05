@@ -1,0 +1,10 @@
+Write a function in python called compute which takes in a integer, doubles it and then returns it.
+Write a function in python called compute which takes in a integer, triples it and then returns it.
+Write a function in python called compute which takes in a integer, multiplies it by 5 and then returns it.
+Write a function in python called compute which takes in a integer, multiplies it by 6 and then returns it.
+Write a function in python called compute which takes in a integer, multiplies it by 7 and then returns it.
+Write a function in python called compute which takes in a integer, multiplies it by 4 then adds 10 and then return it.
+Write a function in python called compute which takes in a integer, multiplies it by 6 then adds 15 and then return it.
+Write a function in python called compute which takes in a integer, multiplies it by 8 then adds 5 and then return it.
+Write a function in python called compute which takes in a integer, multiplies it by 5 then divides it by 7 and then return it.
+Write a function in python called compute which takes in a integer, multiplies it by 8 then divides it by 14 and then return it.
